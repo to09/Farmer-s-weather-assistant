@@ -8,7 +8,7 @@ def connect_db():
 
 def insert(num,city,name,Date,time,desc,temp):
     connect_db()
-    mydb = mysql.connector.connect(host="localhost",user="to96",password="212207@Pin",database="weather")
+    mydb = mysql.connector.connect(host="localhost",user="XXXXx",password="XXXXX",database="weather")
     cursor = mydb.cursor()
     query = "INSERT INTO report1 (mobile_num, city_name, name, Date,time, temp_description,temperature) VALUES (%s, %s, %s ,%s,%s,%s ,%s)"
     value = (num , city , name ,Date, time, desc , temp)
