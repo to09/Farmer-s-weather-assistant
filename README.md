@@ -8,3 +8,5 @@ For accessing weather for next two days, used waeather api from https://openweat
 For converting message from english to hindi used google's api 'googletrans'.
 For converting messege into audio file for sending audio message used google api 'gtts'.
 For sending messages to farmer's used Twilio message service.
+
+Note: For contributing First create issue.
