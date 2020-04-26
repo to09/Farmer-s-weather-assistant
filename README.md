@@ -1,4 +1,4 @@
-Farmer's Weather System
+Farmer's Weather Assistant
 
 Introduction:
 This system helps the farmer's to know the weather condition for the next two days on there feature phone and via call service in their native language.
